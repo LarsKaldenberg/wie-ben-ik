@@ -1,0 +1,62 @@
+h1{
+	font-family: arial;
+}
+
+h1{
+	color: #8A0808;
+}
+
+h2{
+	font-family: arial;
+}
+
+h2{
+	color: #8A0808;
+}
+
+p{
+	font-family: arial;
+}
+
+p{
+	color: #FE2E2E;
+}
+
+body{
+	text-align: center;
+}
+
+body {
+    background-image: url("BLACKIE1.JPG");
+    background-color: #cccccc;
+}
+
+.button {
+    background-color: #610B0B; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+}
+
+img {
+    border-radius: 50%;
+}
+
+body {
+    border-left: 2px solid red;
+    margin-left: 20%;
+}
+
+body {
+	border-right: 2px solid red;
+	margin-right: 20%;
+}
+
+.button {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
